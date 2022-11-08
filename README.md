@@ -11,6 +11,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=WebDevSimplified&show_icons=true&locale=en&layout=compact&theme=radical" alt="layq" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=layq&show_icons=true&locale=en&theme=radical" alt="layq" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lezei&show_icons=true&locale=en&theme=radical" alt="layq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WebDevSimplified&theme=radical" alt="layq" /></p>

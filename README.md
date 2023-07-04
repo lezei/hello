@@ -1,9 +1,9 @@
-<h1 align="center">Hello 🌎, I'm Layq Ezeigwe.</h1>
+<h1 align="center">Hello 🌎, I'm Lay Ezeigwe.</h1>
 <h3 align="center">A passionate Software developer from New York City.</h3>
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **lezeigwe@outlook.com**
+- 📫 How to reach me **lay@workmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>

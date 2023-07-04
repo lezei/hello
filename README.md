@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **lay@workmail.com**
+- 📫 How to reach me **Lay@workmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
